@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(180deg, #B9D3E6 0%, #82AAC7 100%);
+    font-family: 'Roboto', sans-serif;
+}
+
+.tab {
+    background-color: #FFFFFF;
+    color: #000000;
+}

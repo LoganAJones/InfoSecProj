@@ -6,4 +6,5 @@ body {
 .tab {
     background-color: #FFFFFF;
     color: #000000;
+    max-width: 40em;
 }

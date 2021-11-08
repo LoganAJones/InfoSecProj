@@ -8,3 +8,13 @@ body {
     color: #000000;
     max-width: 40em;
 }
+
+a {
+    color: #2EB4B0;
+    font-weight: 300;
+    text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #196967;
+}

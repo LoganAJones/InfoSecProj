@@ -3,10 +3,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.tab {
-    background-color: #FFFFFF;
-    color: #000000;
-    max-width: 40em;
+h1 {
+    font-weight: 400;
 }
 
 a {
@@ -17,4 +15,24 @@ a {
 a:hover {
   text-decoration: underline;
   color: #196967;
+}
+
+.content-tab {
+    background-color: #FFFFFF;
+    color: #000000;
+    max-width: 40em;
+}
+
+.news-link {
+    color: #CAA677;
+    /* clear: both;
+    float: left; */
+}
+.news-link:hover {
+    color: #997545;
+}
+
+.icon-article {
+    float: left;
+    font-size: 250%;
 }
